@@ -1,2 +1,2 @@
-# Lab1Python
-repositorio para el primer lab de python
+# LaboratoriosPython
+repositorio para laboratorios de python
